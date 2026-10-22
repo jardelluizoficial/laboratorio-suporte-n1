@@ -1,6 +1,6 @@
 # Active Directory e Windows — prática de suporte
 
-[← Laboratórios de Suporte N1](../README.md) · [Perfil](https://github.com/jardelluizoficial)
+[← Laboratórios Práticos de Suporte](../README.md) · [Perfil](https://github.com/jardelluizoficial)
 
 Prática de suporte de TI em máquinas virtuais, com foco em Active Directory, contas de usuário, permissões de acesso, compartilhamentos e políticas de grupo.
 
