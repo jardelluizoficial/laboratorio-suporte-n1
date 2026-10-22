@@ -1,8 +1,8 @@
-# Laboratórios de Suporte N1
+# Laboratórios Práticos de Suporte
 
 Práticas de suporte de TI em máquinas virtuais, com procedimentos, capturas de tela e validação dos resultados.
 
-[Perfil](https://github.com/jardelluizoficial) · **Suporte N1** · [Cisco](https://github.com/jardelluizoficial/cisco-networking-labs) · [Faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade)
+[Perfil](https://github.com/jardelluizoficial) · **Suporte** · [Cisco](https://github.com/jardelluizoficial/cisco-networking-labs) · [Faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade)
 
 ## Comece pelo laboratório
 
