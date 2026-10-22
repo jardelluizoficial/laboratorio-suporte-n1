@@ -4,7 +4,18 @@ Práticas de suporte de TI em máquinas virtuais, com procedimentos, capturas de
 
 [Perfil](https://github.com/jardelluizoficial) · **Suporte** · [Cisco](https://github.com/jardelluizoficial/cisco-networking-labs) · [Faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade)
 
-## Comece pelo laboratório
+## Explore os laboratórios
+
+| Laboratório | Foco | Acessar |
+| --- | --- | --- |
+| Active Directory e Windows | Contas, permissões, GPO e unidade de rede | [Abrir prática](active-directory/README.md) |
+| Diagnóstico de DNS | Ping, nslookup, falha controlada e correção | [Abrir prática](diagnostico-dns/README.md) |
+
+### Diagnóstico de falha de DNS
+
+O cliente alcança o servidor por IP, mas a consulta de nome falha ao usar um DNS incorreto. O registro reúne sete capturas, comparação dos testes, consulta direta ao servidor correto e validação após restaurar a configuração.
+
+**[Abrir o passo a passo →](diagnostico-dns/README.md)** · [Registro do atendimento simulado](diagnostico-dns/CHAMADO.md)
 
 ### Active Directory e Windows
 
